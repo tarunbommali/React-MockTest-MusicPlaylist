@@ -1,0 +1,9 @@
+.no-songs-found-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.no-songs-found-text {
+  font-size: 28px;
+  color: #ffffff;
+}
